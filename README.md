@@ -2,8 +2,8 @@
 An all-powerful and bad-ass tool :)
 
 
-Development environment: Python 3.6
-Applications: PyQt5 5.11.2
+Development environment: Python 3.5
+Applications: PyQt5 
 IDE: PyCharm community version
 
 Guides and references:
