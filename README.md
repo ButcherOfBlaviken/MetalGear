@@ -2,8 +2,9 @@
 An all-powerful and bad-ass tool :)
 
 
-Development environment: Python 3.63
+Development environment: Python 3.63 / Windows 10
 Applications: PyQt5 
+Release tool:cx-Freeze 5.11
 IDE: PyCharm community version
 
 Guides and references:
