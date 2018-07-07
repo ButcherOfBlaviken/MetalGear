@@ -2,7 +2,7 @@
 An all-powerful and bad-ass tool :)
 
 
-Development environment: Python 3.5
+Development environment: Python 3.63
 Applications: PyQt5 
 IDE: PyCharm community version
 
